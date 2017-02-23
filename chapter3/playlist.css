@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Indie Flower";
+	src: url("https://fonts.googleapis.com/css?family=Indie+Flower");
+}
+
+body {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	line-height: 1em;
+	font-size: small;
+}
+
+ul li {
+	font-size: 200%;
+	font-family: "Indie Flower", cursive;
+	list-style-type: none;
+	line-height: 1em;
+}
